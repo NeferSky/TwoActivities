@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TwoActivities</string>
+    <string name="about_text">
+        Я снимаю дамп,\n
+        За окном Winamp,\n
+        В Winamp-е "Numb"\n
+        И на клаве Num.\n
+        Решать не нам,\n
+        Чья же здесь вина,\n
+        Что нельзя винду\n
+        Ставить на слона.
+    </string>
+    <string name="about_title">О программе...</string>
+    <string name="birthday_title">День рождения</string>
+    <string name="who_title">кому</string>
+    <string name="description_title">описание</string>
+    <string name="send_title">Send!</string>
+</resources>
